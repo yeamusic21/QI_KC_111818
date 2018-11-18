@@ -1,2 +1,2 @@
-# QI_KC_111818
-QI_KC_111818
+# Quora Insincere Kaggle Competition Work
+Quora Insincere Kaggle Competition Work
